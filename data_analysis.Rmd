@@ -2,8 +2,6 @@
 
 2) What is the Percentage share out of the 85,000 visa cap for the Employers with most applications?
 
-3) Most common Job Titles and their Relative wages to Industry standard as well as absolute?
-
 Let's begin the analysis by loading the libraries and the dataframe!
 
 ```{r}
